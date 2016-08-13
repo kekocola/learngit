@@ -7,3 +7,4 @@ Let me have one more try
 create a branch quick and simple
 add a new line
 this is the fix bug line
+use git stash
